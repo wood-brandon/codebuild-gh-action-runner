@@ -8,3 +8,4 @@ jobs:
       - instance-size:small
     steps:
       - run: echo "Hello World!"
+      - run: echo "I AM GH ACTION YAML >:)"
