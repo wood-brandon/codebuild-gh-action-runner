@@ -3,4 +3,4 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo hello-frombuildspec-2
+      - echo hello-frombuildspec-3
