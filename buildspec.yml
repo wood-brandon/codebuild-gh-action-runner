@@ -4,3 +4,4 @@ phases:
   build:
     commands:
       - echo hello-frombuildspec-6
+      - cdk deploy -r 
